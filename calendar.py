@@ -1,3 +1,5 @@
+import time
+
 class Event:
     def __init__(self, name, description, time, repeat):
         self.name = name
